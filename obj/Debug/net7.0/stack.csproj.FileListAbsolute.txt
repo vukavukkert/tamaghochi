@@ -1,0 +1,15 @@
+D:\SKOPIN_labs\stack\obj\Debug\net7.0\stack.csproj.AssemblyReference.cache
+D:\SKOPIN_labs\stack\obj\Debug\net7.0\stack.GeneratedMSBuildEditorConfig.editorconfig
+D:\SKOPIN_labs\stack\obj\Debug\net7.0\stack.AssemblyInfoInputs.cache
+D:\SKOPIN_labs\stack\obj\Debug\net7.0\stack.AssemblyInfo.cs
+D:\SKOPIN_labs\stack\obj\Debug\net7.0\stack.csproj.CoreCompileInputs.cache
+D:\SKOPIN_labs\stack\bin\Debug\net7.0\stack.exe
+D:\SKOPIN_labs\stack\bin\Debug\net7.0\stack.deps.json
+D:\SKOPIN_labs\stack\bin\Debug\net7.0\stack.runtimeconfig.json
+D:\SKOPIN_labs\stack\bin\Debug\net7.0\stack.dll
+D:\SKOPIN_labs\stack\bin\Debug\net7.0\stack.pdb
+D:\SKOPIN_labs\stack\obj\Debug\net7.0\stack.dll
+D:\SKOPIN_labs\stack\obj\Debug\net7.0\refint\stack.dll
+D:\SKOPIN_labs\stack\obj\Debug\net7.0\stack.pdb
+D:\SKOPIN_labs\stack\obj\Debug\net7.0\stack.genruntimeconfig.cache
+D:\SKOPIN_labs\stack\obj\Debug\net7.0\ref\stack.dll
